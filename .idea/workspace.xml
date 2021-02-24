@@ -66,13 +66,17 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="420" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614149837025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1614149837025" />
     <state x="410" y="59" key="FileChooserDialogImpl" timestamp="1614145036018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="410" y="59" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614145036018" />
-    <state x="74" y="0" key="SettingsEditor" timestamp="1614149733435">
+    <state x="74" y="0" key="SettingsEditor" timestamp="1614149858443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="74" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614149733435" />
+    <state x="74" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614149858443" />
   </component>
 </project>
